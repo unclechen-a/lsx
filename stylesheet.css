@@ -1274,7 +1274,7 @@ audio {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
+#play1,#play2,#play3,#play4,#play5,#play6,#qie,#bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
 	display: none;
 }
 
@@ -1305,8 +1305,9 @@ audio {
 
 .btn-primary {
         border-color: #466baf;
-        padding: 10px;
-        text-transform: uppercase;
+        padding: 12px;
+        /*text-transform: uppercase;*/
+		text-transform: capitalize;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
@@ -1321,6 +1322,8 @@ audio {
         color: #fff;
         background-color: #466baf;
     }
+
+
 
 
 

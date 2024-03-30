@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1608bea1-458c-4582-aa7b-971df750762b" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/effect.js" beforeDir="false" afterPath="$PROJECT_DIR$/effect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +48,7 @@
       <recent name="D:\gitt\happy\birthday" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript 调试.index.html (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -130,6 +134,12 @@
       <workItem from="1710737746364" duration="16898000" />
       <workItem from="1710762959128" duration="1093000" />
       <workItem from="1710765731854" duration="992000" />
+      <workItem from="1710771994092" duration="356000" />
+      <workItem from="1710772703854" duration="2016000" />
+      <workItem from="1710813571206" duration="104000" />
+      <workItem from="1711429090558" duration="1894000" />
+      <workItem from="1711762722803" duration="11034000" />
+      <workItem from="1711801926358" duration="5590000" />
     </task>
     <servers />
   </component>
@@ -146,5 +156,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
